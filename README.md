@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, specifically frontend
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything I get the opportunity on.
-- 📫 How to reach me email: Personal: adrnirv@gmail.com || School: aramirezlopez@scu.edu
+- 📫 How to reach me email: Personal: adrianramirezlopez01@gmail.com || School: aramirezlopez@scu.edu
 
 <!---
 adrianramirez14/adrianramirez14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
